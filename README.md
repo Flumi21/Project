@@ -1,5 +1,6 @@
-# Project
+# Lab3
 Information system and technologies
 
 ##_Serhii Hordiievskyi_
-(https://pns.hneu.edu.ua/course/view.php?id=8314)
+
+Лабораторна робота №3 - Основи роботи з веб-сервісом GitHub
